@@ -8,7 +8,6 @@ config.vm.define :db do |db_config|
                        :ip => "192.168.33.10"
   db_config.vm.provision "puppet" do |puppet|
     puppet.module_path = "modules"
-    puppet.manifest_file = "db.pp"
   end
 end
 

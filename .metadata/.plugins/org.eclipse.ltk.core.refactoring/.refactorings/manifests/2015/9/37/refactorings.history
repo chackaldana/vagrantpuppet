@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;manifests/db.pp&apos; to &apos;default.pp&apos;" description="Rename resource &apos;db.pp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="db.pp" name="default.pp" stamp="1442017617210" updateReferences="true"/>
+</session>
